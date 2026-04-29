@@ -237,5 +237,3 @@ forceFinalAnswer()
 ```
 
 Generates a natural language answer using collected data.
-
----
